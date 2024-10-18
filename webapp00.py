@@ -16,7 +16,7 @@ st.header("Eu sou ISAQUE !!")
 st.subheader("Faculdade - Aula Orientada Objetos")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Aprendendo usar o Python para Front end usando o STREMLIT !")
 
 values = st.slider("Select a range of values", 0.0, 100.0, (5.0, 15.0))
 st.write("Values:", values)
