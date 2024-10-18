@@ -13,7 +13,7 @@ st.title("MEU 1º WEB APP STREAMLIT")
 st.header("Eu sou ISAQUE !!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Aula Orientada Objetos - Faculdade")
+st.subheader("Faculdade - Aula Orientada Objetos")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
