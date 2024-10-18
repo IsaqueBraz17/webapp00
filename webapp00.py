@@ -10,7 +10,7 @@ Escrever(db)
 st.title("MEU 1º WEB APP STREAMLIT")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Eu sou ISAQUE!!")
+st.header("Eu sou ISAQUE !!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Aula Orientada Objetos - Faculdade")
